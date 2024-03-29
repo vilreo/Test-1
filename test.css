@@ -1,0 +1,20 @@
+h2{
+    font-size: 50px;
+    color: greenyellow;
+}
+
+.big{
+    font-size: 200px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    background-color: blanchedalmond;
+}
+
+h2 span{
+    color: violet;
+}
